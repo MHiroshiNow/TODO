@@ -1,0 +1,33 @@
+.tasklist-container {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.display-4 {
+    color: #333;
+    font-weight: bold;
+}
+
+.input-section {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.input-section .form-control {
+    flex: 1;
+    min-width: 180px;
+    margin-bottom: 10px;
+}
+
+.list-group {
+    margin-top: 20px;
+}

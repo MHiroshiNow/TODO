@@ -1,0 +1,11 @@
+.task-list-container {
+    margin-top: 5rem;
+    background: white;
+    border-radius: 15px;
+    padding: 2rem;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.list-group {
+    margin-top: 2rem;
+}

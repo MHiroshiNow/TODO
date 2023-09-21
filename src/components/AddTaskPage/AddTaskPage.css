@@ -1,0 +1,31 @@
+.add-task-container {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.section-toggle {
+    cursor: pointer;
+    transition: background-color 0.15s ease-in-out;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.section-toggle:hover {
+    background-color: #ebebeb;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.display-4 {
+    color: #333;
+    font-weight: bold;
+}
